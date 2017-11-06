@@ -1,0 +1,29 @@
+{
+  "name": "bulma-scss",
+  "version": "1.0.0",
+  "description": "Bulma.io framework converted from Sass to SCSS",
+  "main": "index.js",
+  "dependencies": {
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chops318/bulma-scss.git"
+  },
+  "keywords": [
+    "bulma",
+    "scss",
+    "bulma.io",
+    "scss",
+    "bulma-scss"
+  ],
+  "author": "Ed Smith",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chops318/bulma-scss/issues"
+  },
+  "homepage": "https://github.com/chops318/bulma-scss#readme"
+}
