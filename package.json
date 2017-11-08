@@ -1,5 +1,5 @@
 {
-  "name": "bulma-scss",
+  "name": "bulma-scss-version",
   "version": "1.0.0",
   "description": "Bulma.io framework converted from Sass to SCSS",
   "main": "index.js",
