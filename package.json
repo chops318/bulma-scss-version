@@ -1,8 +1,7 @@
 {
   "name": "bulma-scss-version",
-  "version": "1.2.0",
+  "version": "1.4.0",
   "description": "Bulma.io framework converted from Sass to SCSS",
-  "main": "index.js",
   "dependencies": {
   },
   "devDependencies": {},
